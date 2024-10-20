@@ -1,0 +1,44 @@
+.text-preset-1{
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.text-preset-2{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.text-preset-3{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.text-preset-3__bold{
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  .figtree-extra-bold {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+  .figtree-medium-bold {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+ 
